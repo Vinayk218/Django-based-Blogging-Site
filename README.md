@@ -13,13 +13,6 @@
 - ***Enhanced Content Creation***: Integrated Froala Editor to empower users with advanced content creation capabilities, including rich text editing. 📝✨
 - ***Dynamic Image Processing***: Leveraged Pillow library for dynamic image processing, enabling efficient handling and manipulation of images within the platform. 🖼️🔄
 
-**Technologies Used:**
-- Django 🕸️
-- HTML 🌐
-- Bootstrap 🅱️
-- Froala Editor 📝
-- Pillow 🖼️
-
 **Running the Platform Locally**
 
 To run the Django-based blogging platform locally, follow these steps:
@@ -34,7 +27,7 @@ To run the Django-based blogging platform locally, follow these steps:
 - Access the platform in your web browser at http://127.0.0.1:8000/.
 - Use the admin panel at http://127.0.0.1:8000/admin/ to manage content and user accounts.
 
-For inquiries or feedback, please contact **[Harsha G](mailto:harshag3106@gmail.com)**.
+For inquiries or feedback, please contact **[Vinay K](mailto:vinay2182001@gmail.com)**.
 
 ***Conclusion:***
 🛠️📰 
